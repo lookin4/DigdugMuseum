@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{61C50B1B-8EA0-BFF8-3FEF-77B2EF36C514}") = "DigdugMuseum", "Assembly-CSharp.csproj", "{27340C92-96C5-8B25-3091-F0DB04E8509A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27340C92-96C5-8B25-3091-F0DB04E8509A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27340C92-96C5-8B25-3091-F0DB04E8509A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27340C92-96C5-8B25-3091-F0DB04E8509A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27340C92-96C5-8B25-3091-F0DB04E8509A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
